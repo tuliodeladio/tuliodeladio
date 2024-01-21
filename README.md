@@ -9,7 +9,7 @@ Me chamo **Túlio Deládio**, sou apaixonado por cibersegurança, progamação e
 
 <div align="center">
   
-## 📚 Informações acadêmicas:
+## 📚 Informações Acadêmicas:
 
 
   
