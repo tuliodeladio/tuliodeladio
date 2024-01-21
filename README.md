@@ -28,13 +28,15 @@ Me chamo **Túlio Deládio**, sou apaixonado por cibersegurança, progamação e
     
 ## 🔐 Habilidades em Cibersegurança
 
-| ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-FFA500?style=for-the-badge&logo=shield&logoColor=000000) | Avaliação de vulnerabilidades e exploração. |
+|  |  |
 | --- | --- |
+| ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-FFA500?style=for-the-badge&logo=shield&logoColor=000000) | Avaliação de vulnerabilidades e exploração. |
 | ![Network Security](https://img.shields.io/badge/Network%20Security-FFA500?style=for-the-badge&logo=shield&logoColor=000000) | Implementação de práticas seguras. |
 | ![Forensics](https://img.shields.io/badge/Forensics-FFA500?style=for-the-badge&logo=shield&logoColor=000000) | Investigação de incidentes de segurança. |
 | ![Application Security](https://img.shields.io/badge/Application%20Security-FFA500?style=for-the-badge&logo=shield&logoColor=000000) | Desenvolvimento seguro e análise de código. |
 | ![SOC](https://img.shields.io/badge/SOC-FFA500?style=for-the-badge&logo=shield&logoColor=000000) | Monitoramento e resposta a incidentes. |
 | ![DevSecOps](https://img.shields.io/badge/DevSecOps-FFA500?style=for-the-badge&logo=shield&logoColor=000000) | Integração de práticas de segurança no ciclo de vida de desenvolvimento. |
+|  |  |
 
 </div>
 
