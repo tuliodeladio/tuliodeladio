@@ -17,7 +17,7 @@ Me chamo **Túlio Deládio**, sou apaixonado por cibersegurança, progamação e
 | --- | --- |
 | 💻 Redes De Computadores | CEFET-MG |
 | ⚔️ Defesa Cibernética | FIAP |
-| ⚙️ Engenharia Da Computação | IMPACTA |
+| ⚙️ Engenharia De Software | FIAP |
 
 </div>
 
